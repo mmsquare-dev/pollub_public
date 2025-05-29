@@ -1,0 +1,15 @@
+{
+    "name": "mariusz/pollub_public",
+    "description": "Test",
+    "type": "library",
+    "require": {
+        "wazaari/monolog-mysql": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mariusz M",
+            "email": "mariusz.mortka@gmail.com"
+        }
+    ]
+}
